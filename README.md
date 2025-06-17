@@ -142,12 +142,6 @@ curl -X POST http://localhost:8085/search -H "Content-Type: application/json" \
 
 ---
 
-## 🙏 Acknowledgements
-
-Special thanks to ChatGPT (OpenAI) for patiently handling 100+ errors, crashes, and breakdowns. Without it, this would still be an idea in Notion.
-
----
-
 ## 📅 Status: \~ 90% Complete
 
 - Functionally sound
